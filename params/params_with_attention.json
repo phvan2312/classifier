@@ -1,0 +1,11 @@
+{
+  "batch_size" : 512,
+  "lr":0.002,
+  "nepochs":17,
+  "freq_eval":50,
+  "word_emb_dim":100,
+  "word_hid_dim":75,
+  "max_sen_len" : 100,
+  "dropout_keep_prob" : 0.6,
+  "l2_reg_loss"  : 0.001
+}

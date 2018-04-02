@@ -1,0 +1,4 @@
+{
+  "base_model_type" : "cnn",
+  "n_gpus" : 2
+}

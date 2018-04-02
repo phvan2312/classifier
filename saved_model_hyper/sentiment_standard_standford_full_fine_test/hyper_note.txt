@@ -1,0 +1,10 @@
+
+##########################
+
+# params: {'id2vaderscore': None, 'convert_slang': True, 'pos': False, u'freq_eval': 50, u'nepochs': 17, u'max_sen_len': 100, u'batch_size': 512, 'use_pretrained': None, u'word_hid_dim': 50, u'word_emb_dim': 100, u'dropout_keep_prob': 0.7, u'l2_reg_loss': 0.001, u'lr': 0.002, 'model_type': 'attention', 'id2vaderlexicon': None, 'model_name': 'candidate', 'sentiment_lexicon': False}
+
+# best_test_for_cur_time: 0.3702473958333333
+
+# best_test_for_all_time: 0.3702473958333333
+
+##########################

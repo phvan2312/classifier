@@ -1,0 +1,11 @@
+{
+  "batch_size":2048,
+  "lr":0.001,
+  "nepochs":15,
+  "freq_eval":10,
+  "max_sen_len" : 100,
+  "model_paths" : [
+                  "./saved_model/sentiment_standard_standford_full_fine_attention",
+                  "./saved_model/sentiment_standard_standford_full_fine_cnn"
+                  ]
+}

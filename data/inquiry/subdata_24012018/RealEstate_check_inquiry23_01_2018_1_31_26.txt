@@ -1,0 +1,612 @@
+{
+  "result": [
+    {
+      "text": "﻿How much?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Price?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Value?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much for payment?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Total amount?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Pls contact me",
+      "predict": "inquiry"
+    },
+    {
+      "text": "inbox,please",
+      "predict": "sent"
+    },
+    {
+      "text": "Pls call me",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Location?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Where located?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "nearby?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "area?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "position?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "which region?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "what are condition of home?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "condition of home?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "quality of home?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "quality of apartment?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "status of house?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "situation of house?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "situation of apartment?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How old is the roof?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What the roof's age?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the type of foundation?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "type of foundation?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the home have insulation in the walls and attic?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "have insulation in the walls and attic?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Have any appliances or systems been replaced and, if so, when?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "any appliances or systems been replaced?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What types of other properties are located nearby?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What are the neighborhood demographics?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "the neighborhood demographics?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Where are the schools?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "near to the schools?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are there nuisance factors?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "nuisance factors? ",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Any Infestations of Termites, Carpenter Ants, or Other Pests?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Any Paranormal or Nefarious Activity?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What are Monthly Utility Costs?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Has the Sewer Ever Backed Up?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is There Documentation on Warranties?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Warranties?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How Much Insulation Is in the Attic?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How Big is the Water Heater?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "size of the Water Heater?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "When Was the Last Time the Septic Tank Was Pumped?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "the status of the Septic Tank?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Will My SUV Fit in the Garage?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Car parking?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What's the position and quality of trees?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Position and quality of trees?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Any signs of pets?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are there sidewalks in the neigboorhoods?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "sidewalks in the neigboorhoods?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the house too out-dated?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the house have any weird smells?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "any weird smells?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the ground slope away from the house?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "the ground slope away from the house?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What do the car in the neigboorhood look like?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "car in the neigboorhood look like?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What are the neigboor like?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What are the neigboor like?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much are utilities?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "price of utilities?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How long has the house been on the market and has it had much interest?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "distance from house to local martket?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Why are the current owners moving?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "the reason why current owners moving? ",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Has the house had any major building work recently?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "the house have any major building work recently?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How long have the previous owners lived there?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the property listed?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "the property listed?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the property part of a chain?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the property part of a chain?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the area have any hidden issues to be aware of?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "any hidden issues to be aware of?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Whats included in the sale?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Who are the neighbours?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What are the properties next door?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Which way does the garden face?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "gargen face to which direction?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I try the taps?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "I can try the taps?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are there good local amenities?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "good local amenities?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there room for negotiation?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "any room for negotiation?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Why is the owner selling?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "the reason why the owner selling?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Why is the owner selling?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "minimum price the house?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the minimum price the seller will accept?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What offers have they had so far?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What offers ?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I speak directly to the seller?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Pls ask the seller to contact me",
+      "predict": "inquiry"
+    },
+    {
+      "text": "renting vs. buying a better option?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "neighborhoods crime rate?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "my home needs and wants?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Why is the House for Sale?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "any nuisances or problem neighbors?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "reputation of public schools in the area?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "exterior in good shape?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "any additions?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Age and condition of roof?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "the insulation type?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "wiring method?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "electrical panel size?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "any leaks in foundation?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "walls insulated?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "furnace age?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "furnace type and service history?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "hot water heater type and age?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "window type and age?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "ever been rats or an ant history?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "size of main service to road?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "When the home was built?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What changes or upgrades they have made?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the roof mossy?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much are taxes each year?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "the home wired for home security and internet?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "appliances included?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "the property child friendly?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How many people have owned the property previously?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "average cost of utilities?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "any issues with the home?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "activities are within walking distance?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "any convictions attached to the property?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "any deaths in the property?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "public transport closely available?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "any offers on the property?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "final asking price?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "what services and amenities?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Distance to closest public transportation & bus stops",
+      "predict": "inquiry"
+    },
+    {
+      "text": "School Zones - Elementary, Middle & High School",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Convenience to churches, shopping and entertainment",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Any foundation problems?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Room dimensions and total square footage",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Lot Size?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "average cost of utilities throughout the year?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Any liens against the property",
+      "predict": "inquiry"
+    },
+    {
+      "text": "pool, landscaping, lake or river rights?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Zoning and nonconforming uses?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "any problem neighbors or nuisances?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "ever been treated for termites?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "large garden?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "swimming pool?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How about view?",
+      "predict": "inquiry"
+    },
+    {
+      "text": "",
+      "predict": "sent"
+    },
+    {
+      "text": "",
+      "predict": "sent"
+    }
+  ]
+}

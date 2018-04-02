@@ -1,0 +1,512 @@
+How much?
+How much
+How much is it?
+How much is it
+How much is a room?
+How much is a room
+How much for a room?
+How much for a room
+How much is one room?
+How much is one room
+How much for 1 room?
+How much for 1 room
+How much is 1 room?
+How much is 1 room
+How much for one room?
+How much for one room
+How much for one night?
+How much for one night
+How much per night?
+How much per night
+How much a night?
+How much a night
+How much for a room per night?
+How much for a room per night
+How much for a room/night?
+How much for a room/night
+How much is a room per night?
+How much is a room per night
+How much is a room/night?
+How much is a room/night
+How much do I have to pay for a night?
+How much do I have to pay for a night
+How much do I have to pay for one night?
+How much do I have to pay for one night
+How much should I pay for a night?
+How much should I pay for a night
+How much should I pay for one night?
+How much should I pay for one night
+How much will you charge me for a night?
+How much will you charge me for a night
+How much will you charge me for one night?
+How much will you charge me for one night
+How much do you charge me for a night?
+How much do you charge me for a night
+How much do you charge me for one night?
+How much do you charge me for one night
+What is the daily rate?
+What is the daily rate
+What's the daily rate?
+What's the daily rate
+What is the price for one night?
+What is the price for one night
+What's the price for one night?
+What's the price for one night
+What is the best price guarantee?
+What is the best price guarantee
+Do you have Best price Guarantee programme?
+Do you have Best price Guarantee programme
+Do you have Best price Guarantee program?
+Do you have Best price Guarantee program
+Do you offer Best price Guarantee programme?
+Do you offer Best price Guarantee programme
+Do you offer Best price Guarantee program?
+Do you offer Best price Guarantee program
+Have you got Best price Guarantee programme?
+Have you got Best price Guarantee programme
+Have you got Best price Guarantee program?
+Have you got Best price Guarantee program
+Have you had Best price Guarantee programme?
+Have you had Best price Guarantee programme
+Have you had Best price Guarantee program?
+Have you had Best price Guarantee program
+Have you got Best price Guarantee policies?
+Have you got Best price Guarantee policies
+Have you had Best price Guarantee policies?
+Have you had Best price Guarantee policies
+Do you guarantee your price is the best?
+Do you guarantee your price is the best
+Do you commit your price is the best?
+Do you commit your price is the best
+Do you have special rate for membership owners?
+Do you have special rate for membership owners
+Do you offer special rate for membership owners?
+Do you offer special rate for membership owners
+What are the policies for membership owners?
+What are the policies for membership owners
+Where can I see the hotel rates?
+Where can I see the hotel rates
+How can I check the room rates?
+How can I check the room rates
+Why do the costs vary from day to day?
+Why do the costs vary from day to day
+Do you offer child rates?
+Do you offer child rates
+Do you offer kids rates?
+Do you offer kids rates
+Do you offer special rate for kids?
+Do you offer special rate for kids
+Do you offer special price for kids?
+Do you offer special price for kids
+Can my children stay in the room for free?
+Can my children stay in the room for free
+Do you reduce the price for kids?
+Do you reduce the price for kids
+Do you reduce the price for children?
+Do you reduce the price for children
+Is there special price for children?
+Is there special price for children
+Is there price reduction for kids?
+Is there price reduction for kids
+Is there discount for kids?
+Is there discount for kids
+Is there discount for children?
+Is there discount for children
+Do you charge children for sharing the room with parents?
+Do you charge children for sharing the room with parents
+Do you charge kids for sharing the room with parents?
+Do you charge kids for sharing the room with parents
+Do children stay for free?
+Do children stay for free
+Do kids stay for free?
+Do kids stay for free
+Is the room rate per person or per night?
+Is the room rate per person or per night
+Is the price per person or per night?
+Is the price per person or per night
+Are the prices quoted per room or per person?
+Are the prices quoted per room or per person
+Are the prices quoted per room or per person?
+Does the price include meals?
+Does the price include meals
+Does the room rate include meals?
+Does the room rate include meals
+Does the price include breakfast?
+Does the price include breakfast
+Does the room rate include breakfast?
+Does the room rate include breakfast
+Is breakfast included in the price?
+Is breakfast included in the price
+Is breakfast included in the room rate?
+Is breakfast included in the room rate
+Are meals included in the price?
+Are meals included in the price
+Are meals included in the room rate?
+Are meals included in the room rate
+What does the price include?
+What does the price include
+What does the room rate include?
+What does the room rate include
+What is included in the price?
+What is included in the price
+What is included in the room rate?
+What is included in the room rate
+Can I have breakfast even if I am not staying in your hotel?
+Can I have breakfast even if I am not staying in your hotel
+Can I have dinner even if I am not staying in your hotel?
+Can I have dinner even if I am not staying in your hotel
+Free breakfast?
+Free breakfast
+Free dinner?
+Free dinner
+Meals included?
+Meals included
+Breakfast included?
+Breakfast included
+Can I book tee times online?
+Can I book tee times online
+Can I also book breakfast online?
+Can I also book breakfast online 
+What does breakfast online booking cost?
+What does breakfast online booking cost
+Can I cook my own meals?
+Are special requests such as feather-free pillows manageable?
+Are special requests such as gluten-free meals manageable?
+Shall I use the kitchen?
+What time is the kitchen open to guest?
+What do you serve for breakfast?
+What do you offer for breakfast?
+What is served for breakfast?
+What is offered at breakfast?
+Can we order dishes off the menu?
+What time is breakfast served?
+How can I see which features are included in the price?
+Which services are included in the price?
+What does the price include?
+What is included in the price?
+What is included in my nightly rate?
+What is excluded in my nightly rate?
+How can I see which features are offered in the room rate?
+How can I see which features are included in the price?
+Which room configurations do you offer?
+Which services are offered in the price?
+What does the price offer?
+What is offered in the price?
+Does the price reflect all fees and taxes?
+Does the price include all taxes and fees?
+Does the rate reflect all fees and taxes?
+Does the rate include all taxes and fees?
+Are taxes included in the room rates?
+How can I see the different rates?
+What amenities are included in the room?
+Does the room have private outdoor seating?
+Does the room have private balcony?
+If the room has a balcony or indoor stairs, are they safe for a toddler?
+Which size are the rooms?
+How large is the room?
+Is parking included?
+Does the hotel have parking lot?
+Is the parking free?
+Is the parking free of charge?
+Do you offer free parking?
+Do you offer free parking during our stay?
+Are there car parking spaces or a car park?
+How much does parking cost?
+Do you charge for parking?
+Do we have to pay for parking during our stay?
+Do I have to pay for parking?
+How much do I have to pay for car park?
+How much does it cost for parking?
+Can I reserve a parking lot?
+Is parking available at the hotel?	
+Can I be placed in a recently renovated room?
+Are there rooms that are more recently renovated than others?
+Can I get a room in a silent area?
+Can I be placed away from the elevator?
+Can I have a room on a higher floor?
+Can I have a room facing away from the street?
+Is there a variation in the views in rooms of the same category?
+What is the view of my room?
+What is your room categories?
+How many kinds of room do you offer?
+What is the difference between twin room and double room?
+Does this room have an connecting room?
+Do you have connecting room?
+Do you offer connecting room?
+Are the rooms connecting or adjacent?
+How many floors does the hotel have?
+Is there a lift?
+Is there an elevator?
+Do you have lift?
+Do you have elevator?
+Are there rooms with better Wi-Fi reception than others?
+Is there unlimited WiFi Access?
+Is Wi-Fi available in the room?
+Is Wi-Fi available at the hotel?
+Is the hotel wi-fi free?
+Do you offer free wifi?
+Is wifi free of charge?
+Is Wi-Fi included for free?
+Does the Room have a Refrigerator?
+Will my room have a refrigerator?
+What are the best rooms and is there a mini-bar?
+Is there complimentary toiletries for free?
+Is the toiletries free of charge?
+Do you offer free toiletries?
+Is the toiletries included free?
+Is the toiletries free?
+Is the toiletries included free of charge?
+Does the toiletries included in the price?
+Does the toiletries included in the room rate?
+Do you charge for extra clean linen?
+Do I have to pay for extra clean linen?
+Do we have to pay for extra clean linen?
+What better rate can you offer me?
+Do you offer me a better rate?
+Do you offer me better price?
+Is there a resort fee?
+Is the hotel family friendly?
+Can hotel staff speak Mandarine?
+Can hotel staff speak Cantonese?
+Can hotel staff speak Japanese?
+Can hotel staff speak French?
+Can hotel staff speak Korean?
+Which languages are spoken at Reception?
+Does the room have a private bathroom?
+Where in the hotel is the room located?
+Where is the room located on the property?
+Is there any discount for large group?
+Do you offer special discounts?
+What about the special discounts?
+Can I use discount vouchers?
+Is it cheaper to book online?
+Could you send us more information about promotion?
+Are there any upcoming sales or holiday promotions?
+Are there any special hotel offerings that are not widely advertised?
+What if I want an upgrade?
+Does the hotel have any local affiliations?
+Am I entitled to any exclusive amenities?
+How is the traffic there?
+What are the reception opening hours?
+Is Reception open 24 hours?
+At what time can I check-in?
+By what time must I check-out?
+Check-in time?
+Check-out time?
+When to check in, check out?
+What are the check-in and check-out times of a hotel?
+What is the Early Bird rate?
+Can I use the spa area after checking out?
+Can I get an early check-in?
+How can I request an early check-in or late check-out time?
+At what time is check-in?
+At what time is check-out?
+Any surcharge for late check-out?
+Can I leave my luggage?
+Do you have baggage locker?
+Any surcharge for baggage locker?
+How far is it to the center?
+Can we walk to restaurants and shopping?
+Can I walk to local restaurants or markets?
+Do you have a restaurant?
+Does the hotel have an onsite restaurant?
+What time does the restaurant open?
+Can I reserve a table in a restaurant?
+Do they have a kids’ menu?
+Do they have menu for kids?
+How to get to the nearest restaurant?
+How to get to the nearest shopping mall?
+What is the distance from the hotel from the nearest hospital?
+What time does the bar close?
+What is your address?
+What is the hotel's address?
+Is there pick-up service?
+Do you have pick-up service?
+Do you offer pick-up service for free?
+Do you have pick-up service?
+Is there public transport to your place?
+What are the directions to the hotel?
+Is the hotel near an airport?
+Is the hotel near an train station?
+Which is the nearest airport?
+Which is the nearest train station?
+How can I reach your hotel from the airport?
+Is a limousine service available from the airport?
+Is there a hotel shuttle service to/from the airport?
+Do you offer hotel shuttles to/from train station?
+Is there room available on ..?
+Can we add extra bed?
+How many additional beds can you have in one room?
+How much should we pay for extra bed?
+What are the exact bed sizes in a room?
+Do the bathrooms have baths or showers?
+Will the room have a bathtub?
+Can we bring our pets?
+Can I bring my pet?
+Can I take a pet with me?
+Are pets allowed to stay at the hotel?
+Do you offer handicapped rooms?
+Do you have rooms that have services for those with disabilities?
+Do you have special facilities for handicapped travellers?
+Do you have car rental service?
+Can I rent a car at the hotel or nearby?
+Do you offer child care service?
+Can the public use the swimming pool?
+Is there a pool at the hotel?
+Is the swimming pool fenced?  
+If the pool is unfenced, how far away is your room from the it?
+Do you offer spa treatments?
+Can I use the spa area even if I am not staying in your hotel?
+Is it possible to book spa treatments online?
+Do you offer any short term tour?
+Is there any discount for guest staying at your hotel?
+Does the hotel need a deposit?
+Does the hotel need a payment in advance?
+Can different payment methods be combined?
+What is the currency accepted at your hotel?
+What currency is accepted for payment at your hotel?
+What is the VAT refund system in your country?
+Do we have to pay deposit?
+How much do we have to deposit?
+How to deposit?
+How many rooms can be booked at once?
+What types of credit card can I use to guarantee the reservation?
+Which credit cards are accepted?
+For how many persons I can make a reservation? 
+Are bookings for groups possible online?
+Is there waiting list for reservation on high season?
+Why do Internet rates only apply at certain times of the year?
+Is my credit card being charged at time of booking?
+Which online payment methods do you offer?
+Can I book two rooms of different categories?
+Can I book two rooms with different occupancy?
+How can I make booking?
+Can I pay for my stay in advance?
+Can I still book a room without credit card?
+Shall we reserve the booking by our credit card?
+Can I book without credit card?
+How much of a hold are you putting on my credit card?
+When will a hold be released?
+Is it safe to fill in my credit card number? 
+How secure is the your website?
+What credit cards do you accept?
+How late are the doors open?
+Noise level?
+How do I reserve my room?
+Can I make room reservation by phone?
+Can I book a hotel room by telephone or email?
+How many rooms can I book in one reservation?
+Can I book a hotel for day use?
+Once I have made my reservation, will I receive any written confirmation from the hotel?
+How do I know that my reservation is confirmed?
+What is the cancellation policy on my reservation?
+How do I cancel a reservation?
+How can I change or cancel my reservation?
+What is the time of room cancellation?
+Do you charge for cancellations?
+By when do I have to cancel my booking, if I have to?
+When is the latest to cancel the room reservation?
+Where can I see the booking conditions?
+Why did I not receive a booking confirmation?
+Can I check-in without my reservation number?
+Why is the arrangement not bookable?
+Can I cancel only certain parts of my reservation?
+What type of customer service is offered?
+What are the special services available for female travellers?
+Does the hotel have a conference room? If so, how many people can it accommodate?
+How do I know if the hotel has parking facilities?
+Is parking available? 
+Free parking? 
+Long-term parking?
+Is parking available at the hotel?
+What if there will be more than two adults in the room?
+What if I find a lower price after booking?
+How can I redeem a group voucher in your hotel?
+Which online payment methods do you offer?
+When do I need to pay for the accommodation?
+Is my credit card being charged at time of booking?
+Which credit cards are accepted?
+How can I change or cancel my reservation?
+By when do I have to cancel my booking, if I have to?
+Where can I see the booking conditions?
+When were the rooms last refurbished?
+Do you have smoking and non-smoking rooms?
+Do you offer non-smoking rooms?
+Will I be entitled to a non-smoking room?
+How many bars does the hotel have?
+How far in advance do I have to book?
+How long before the vacation should I book my room?
+Are meals served buffet style or off the menu?
+Are there any alternative on-property restaurants?
+What activities are included?
+What is the nightlife like at this resort?
+How are the golf facilities?
+Do you have renting service for golf facilities?
+Do you offer golf facilities?
+Are golf facilities offered at your resort?
+Can you recommend any good diving school in your area?
+Is babysitting provided?
+Is there a kids club?
+What about teen activities?
+Is there any teen activities?
+What about kids club?
+Is there babysitting service?
+Are cocktails, beer, bottled water and soda included?
+Are drinks local, premium or top-shelf brands?
+Is it 24 hour snacks/drinks, swim-up bar?
+What are the bar hours?
+Am I expected to pay any type of gratuities?
+Are there a lot of weddings on property?
+Do weddings interfere with any of the public areas?
+Will there be any wedding during my stay?
+Does the resort cater to Americans?
+Is the clientele mostly international?
+What is there to do on a rainy day?
+Are there any scheduled get-acquainted cocktail parties or dinners?
+What is the dress code for cocktail parties?
+Will I need a coat and tie for dinner?
+When is the best time of the year to enjoy the resort?
+Is there a hurricane policy?
+Are airport transfers included in the package rate?
+How far from the airport is the property?
+How do I get from the airport to the hotel?
+What is the ongoing entertainment?
+Is there a casino on property or near-by?
+Is there shuttle service into town or for shopping excursions?
+Is there a doctor or nurse on the property?
+What is the resort procedure in the event of a medical emergency?
+Are medical services available at the hotels?
+What is the security policy at the resort?
+What is the safety record?
+Are there any special packages and sales promotions going on now that include airfare?
+How can I subscribe for the newsletter?
+How can I unsubscribe for the newsletter?
+How can I order hotel brochures?
+How can I order hotel flyer?
+Can I purchase a hotel voucher as a present?
+How can I redeem Groupon-voucher in your hotel?
+Do you offer gift voucher?
+Is half or full board available?
+Where can I get a copy of my invoice after departure?
+What should I do, if I lost or forgot something in my room?
+How do I know if the hotel is bookable?
+Why is the hotel not bookable although the calendar is marked green?
+When is a good time to visit your country?
+What voltage do you use in your country?
+Do you offer power converter at your hotel?
+Do you have voltage converter at your hotel?
+Do you have power adapter at your hotel?
+Do you offer voltage adapter at your hotel?
+Is power conterter offerred at your hotel?
+Is voltage adapter offerred at your hotel?
+Do you have satellite television?
+Do you offer satellite television?
+Is satellite television available at our hotel?
+Do you have in-house movies?
+Do you offer in-house movies?
+Is in-house movies available?
+Do you have any special packages for honeymoon?
+Do you have any special packages for anniversaries?
+Do you have any special packages for birthday?
+Do you have any special packages for conference?
+Do you have any special packages for company trip?

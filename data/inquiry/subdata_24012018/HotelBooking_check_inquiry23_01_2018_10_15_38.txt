@@ -1,0 +1,2056 @@
+{
+  "result": [
+    {
+      "text": "How much?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much is it?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much is it\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much is a room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much is a room\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much for a room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much for a room\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much is one room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much is one room\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much for 1 room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much for 1 room\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much is 1 room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much is 1 room\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much for one room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much for one room\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much for one night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much for one night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much per night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much per night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much a night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much a night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much for a room per night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much for a room per night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much for a room/night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much for a room/night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much is a room per night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much is a room per night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much is a room/night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much is a room/night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much do I have to pay for a night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much do I have to pay for a night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much do I have to pay for one night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much do I have to pay for one night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much should I pay for a night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much should I pay for a night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much should I pay for one night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much should I pay for one night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much will you charge me for a night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much will you charge me for a night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much will you charge me for one night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much will you charge me for one night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much do you charge me for a night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much do you charge me for a night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How much do you charge me for one night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much do you charge me for one night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "What is the daily rate?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the daily rate\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What's the daily rate?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What's the daily rate\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the price for one night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the price for one night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "What's the price for one night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What's the price for one night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "What is the best price guarantee?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the best price guarantee\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have Best price Guarantee programme?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have Best price Guarantee programme\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do you have Best price Guarantee program?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have Best price Guarantee program\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do you offer Best price Guarantee programme?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer Best price Guarantee programme\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do you offer Best price Guarantee program?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer Best price Guarantee program\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Have you got Best price Guarantee programme?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Have you got Best price Guarantee programme\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Have you got Best price Guarantee program?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Have you got Best price Guarantee program\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Have you had Best price Guarantee programme?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Have you had Best price Guarantee programme\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Have you had Best price Guarantee program?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Have you had Best price Guarantee program\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Have you got Best price Guarantee policies?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Have you got Best price Guarantee policies\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Have you had Best price Guarantee policies?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Have you had Best price Guarantee policies\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do you guarantee your price is the best?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you guarantee your price is the best\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do you commit your price is the best?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you commit your price is the best\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do you have special rate for membership owners?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have special rate for membership owners\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do you offer special rate for membership owners?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer special rate for membership owners\r",
+      "predict": "sent"
+    },
+    {
+      "text": "What are the policies for membership owners?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What are the policies for membership owners\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Where can I see the hotel rates?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Where can I see the hotel rates\r",
+      "predict": "sent"
+    },
+    {
+      "text": "How can I check the room rates?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How can I check the room rates\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Why do the costs vary from day to day?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Why do the costs vary from day to day\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do you offer child rates?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer child rates\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do you offer kids rates?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer kids rates\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do you offer special rate for kids?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer special rate for kids\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do you offer special price for kids?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer special price for kids\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Can my children stay in the room for free?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can my children stay in the room for free\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do you reduce the price for kids?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you reduce the price for kids\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do you reduce the price for children?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you reduce the price for children\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Is there special price for children?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there special price for children\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Is there price reduction for kids?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there price reduction for kids\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Is there discount for kids?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there discount for kids\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Is there discount for children?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there discount for children\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do you charge children for sharing the room with parents?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you charge children for sharing the room with parents\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do you charge kids for sharing the room with parents?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you charge kids for sharing the room with parents\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do children stay for free?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do children stay for free\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Do kids stay for free?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do kids stay for free\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Is the room rate per person or per night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the room rate per person or per night\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Is the price per person or per night?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the price per person or per night\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are the prices quoted per room or per person?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are the prices quoted per room or per person\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Are the prices quoted per room or per person?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the price include meals?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the price include meals\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the room rate include meals?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the room rate include meals\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the price include breakfast?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the price include breakfast\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the room rate include breakfast?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the room rate include breakfast\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is breakfast included in the price?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is breakfast included in the price\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is breakfast included in the room rate?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is breakfast included in the room rate\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are meals included in the price?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are meals included in the price\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are meals included in the room rate?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are meals included in the room rate\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What does the price include?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What does the price include\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What does the room rate include?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What does the room rate include\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is included in the price?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is included in the price\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is included in the room rate?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is included in the room rate\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I have breakfast even if I am not staying in your hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I have breakfast even if I am not staying in your hotel\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Can I have dinner even if I am not staying in your hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I have dinner even if I am not staying in your hotel\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Free breakfast?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Free breakfast\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Free dinner?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Free dinner\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Meals included?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Meals included\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Breakfast included?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Breakfast included\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I book tee times online?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I book tee times online\r",
+      "predict": "sent"
+    },
+    {
+      "text": "Can I also book breakfast online?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I also book breakfast online \r",
+      "predict": "sent"
+    },
+    {
+      "text": "What does breakfast online booking cost?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What does breakfast online booking cost\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I cook my own meals?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are special requests such as feather-free pillows manageable?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are special requests such as gluten-free meals manageable?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Shall I use the kitchen?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What time is the kitchen open to guest?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What do you serve for breakfast?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What do you offer for breakfast?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is served for breakfast?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is offered at breakfast?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can we order dishes off the menu?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What time is breakfast served?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How can I see which features are included in the price?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Which services are included in the price?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What does the price include?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is included in the price?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is included in my nightly rate?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is excluded in my nightly rate?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How can I see which features are offered in the room rate?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How can I see which features are included in the price?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Which room configurations do you offer?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Which services are offered in the price?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What does the price offer?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is offered in the price?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the price reflect all fees and taxes?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the price include all taxes and fees?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the rate reflect all fees and taxes?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the rate include all taxes and fees?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are taxes included in the room rates?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How can I see the different rates?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What amenities are included in the room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the room have private outdoor seating?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the room have private balcony?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "If the room has a balcony or indoor stairs, are they safe for a toddler?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Which size are the rooms?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How large is the room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is parking included?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the hotel have parking lot?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the parking free?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the parking free of charge?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer free parking?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer free parking during our stay?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are there car parking spaces or a car park?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much does parking cost?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you charge for parking?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do we have to pay for parking during our stay?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do I have to pay for parking?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much do I have to pay for car park?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much does it cost for parking?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I reserve a parking lot?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is parking available at the hotel?\t\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I be placed in a recently renovated room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are there rooms that are more recently renovated than others?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I get a room in a silent area?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I be placed away from the elevator?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I have a room on a higher floor?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I have a room facing away from the street?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there a variation in the views in rooms of the same category?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the view of my room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is your room categories?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How many kinds of room do you offer?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the difference between twin room and double room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does this room have an connecting room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have connecting room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer connecting room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are the rooms connecting or adjacent?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How many floors does the hotel have?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there a lift?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there an elevator?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have lift?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have elevator?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are there rooms with better Wi-Fi reception than others?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there unlimited WiFi Access?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is Wi-Fi available in the room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is Wi-Fi available at the hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the hotel wi-fi free?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer free wifi?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is wifi free of charge?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is Wi-Fi included for free?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the Room have a Refrigerator?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Will my room have a refrigerator?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What are the best rooms and is there a mini-bar?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there complimentary toiletries for free?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the toiletries free of charge?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer free toiletries?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the toiletries included free?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the toiletries free?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the toiletries included free of charge?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the toiletries included in the price?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the toiletries included in the room rate?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you charge for extra clean linen?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do I have to pay for extra clean linen?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do we have to pay for extra clean linen?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What better rate can you offer me?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer me a better rate?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer me better price?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there a resort fee?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the hotel family friendly?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can hotel staff speak Mandarine?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can hotel staff speak Cantonese?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can hotel staff speak Japanese?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can hotel staff speak French?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can hotel staff speak Korean?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Which languages are spoken at Reception?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the room have a private bathroom?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Where in the hotel is the room located?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Where is the room located on the property?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there any discount for large group?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer special discounts?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What about the special discounts?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I use discount vouchers?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is it cheaper to book online?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Could you send us more information about promotion?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are there any upcoming sales or holiday promotions?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are there any special hotel offerings that are not widely advertised?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What if I want an upgrade?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the hotel have any local affiliations?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Am I entitled to any exclusive amenities?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How is the traffic there?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What are the reception opening hours?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is Reception open 24 hours?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "At what time can I check-in?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "By what time must I check-out?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Check-in time?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Check-out time?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "When to check in, check out?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What are the check-in and check-out times of a hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the Early Bird rate?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I use the spa area after checking out?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I get an early check-in?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How can I request an early check-in or late check-out time?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "At what time is check-in?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "At what time is check-out?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Any surcharge for late check-out?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I leave my luggage?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have baggage locker?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Any surcharge for baggage locker?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How far is it to the center?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can we walk to restaurants and shopping?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I walk to local restaurants or markets?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have a restaurant?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the hotel have an onsite restaurant?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What time does the restaurant open?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I reserve a table in a restaurant?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do they have a kids’ menu?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do they have menu for kids?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How to get to the nearest restaurant?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How to get to the nearest shopping mall?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the distance from the hotel from the nearest hospital?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What time does the bar close?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is your address?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the hotel's address?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there pick-up service?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have pick-up service?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer pick-up service for free?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have pick-up service?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there public transport to your place?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What are the directions to the hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the hotel near an airport?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the hotel near an train station?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Which is the nearest airport?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Which is the nearest train station?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How can I reach your hotel from the airport?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is a limousine service available from the airport?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there a hotel shuttle service to/from the airport?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer hotel shuttles to/from train station?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there room available on ..?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can we add extra bed?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How many additional beds can you have in one room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much should we pay for extra bed?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What are the exact bed sizes in a room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do the bathrooms have baths or showers?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Will the room have a bathtub?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can we bring our pets?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I bring my pet?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I take a pet with me?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are pets allowed to stay at the hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer handicapped rooms?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have rooms that have services for those with disabilities?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have special facilities for handicapped travellers?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have car rental service?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I rent a car at the hotel or nearby?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer child care service?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can the public use the swimming pool?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there a pool at the hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the swimming pool fenced?  \r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "If the pool is unfenced, how far away is your room from the it?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer spa treatments?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I use the spa area even if I am not staying in your hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is it possible to book spa treatments online?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer any short term tour?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there any discount for guest staying at your hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the hotel need a deposit?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the hotel need a payment in advance?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can different payment methods be combined?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the currency accepted at your hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What currency is accepted for payment at your hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the VAT refund system in your country?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do we have to pay deposit?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much do we have to deposit?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How to deposit?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How many rooms can be booked at once?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What types of credit card can I use to guarantee the reservation?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Which credit cards are accepted?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "For how many persons I can make a reservation? \r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are bookings for groups possible online?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there waiting list for reservation on high season?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Why do Internet rates only apply at certain times of the year?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is my credit card being charged at time of booking?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Which online payment methods do you offer?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I book two rooms of different categories?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I book two rooms with different occupancy?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How can I make booking?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I pay for my stay in advance?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I still book a room without credit card?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Shall we reserve the booking by our credit card?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I book without credit card?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How much of a hold are you putting on my credit card?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "When will a hold be released?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is it safe to fill in my credit card number? \r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How secure is the your website?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What credit cards do you accept?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How late are the doors open?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Noise level?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How do I reserve my room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I make room reservation by phone?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I book a hotel room by telephone or email?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How many rooms can I book in one reservation?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I book a hotel for day use?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Once I have made my reservation, will I receive any written confirmation from the hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How do I know that my reservation is confirmed?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the cancellation policy on my reservation?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How do I cancel a reservation?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How can I change or cancel my reservation?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the time of room cancellation?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you charge for cancellations?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "By when do I have to cancel my booking, if I have to?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "When is the latest to cancel the room reservation?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Where can I see the booking conditions?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Why did I not receive a booking confirmation?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I check-in without my reservation number?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Why is the arrangement not bookable?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I cancel only certain parts of my reservation?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What type of customer service is offered?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What are the special services available for female travellers?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the hotel have a conference room? If so, how many people can it accommodate?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How do I know if the hotel has parking facilities?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is parking available? \r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Free parking? \r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Long-term parking?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is parking available at the hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What if there will be more than two adults in the room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What if I find a lower price after booking?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How can I redeem a group voucher in your hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Which online payment methods do you offer?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "When do I need to pay for the accommodation?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is my credit card being charged at time of booking?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Which credit cards are accepted?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How can I change or cancel my reservation?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "By when do I have to cancel my booking, if I have to?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Where can I see the booking conditions?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "When were the rooms last refurbished?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have smoking and non-smoking rooms?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer non-smoking rooms?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Will I be entitled to a non-smoking room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How many bars does the hotel have?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How far in advance do I have to book?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How long before the vacation should I book my room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are meals served buffet style or off the menu?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are there any alternative on-property restaurants?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What activities are included?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the nightlife like at this resort?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How are the golf facilities?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have renting service for golf facilities?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer golf facilities?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are golf facilities offered at your resort?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can you recommend any good diving school in your area?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is babysitting provided?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there a kids club?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What about teen activities?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there any teen activities?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What about kids club?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there babysitting service?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are cocktails, beer, bottled water and soda included?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are drinks local, premium or top-shelf brands?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is it 24 hour snacks/drinks, swim-up bar?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What are the bar hours?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Am I expected to pay any type of gratuities?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are there a lot of weddings on property?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do weddings interfere with any of the public areas?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Will there be any wedding during my stay?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Does the resort cater to Americans?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is the clientele mostly international?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is there to do on a rainy day?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are there any scheduled get-acquainted cocktail parties or dinners?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the dress code for cocktail parties?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Will I need a coat and tie for dinner?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "When is the best time of the year to enjoy the resort?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there a hurricane policy?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are airport transfers included in the package rate?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How far from the airport is the property?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How do I get from the airport to the hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the ongoing entertainment?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there a casino on property or near-by?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there shuttle service into town or for shopping excursions?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is there a doctor or nurse on the property?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the resort procedure in the event of a medical emergency?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are medical services available at the hotels?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the security policy at the resort?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What is the safety record?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Are there any special packages and sales promotions going on now that include airfare?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How can I subscribe for the newsletter?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How can I unsubscribe for the newsletter?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How can I order hotel brochures?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How can I order hotel flyer?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Can I purchase a hotel voucher as a present?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How can I redeem Groupon-voucher in your hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer gift voucher?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is half or full board available?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Where can I get a copy of my invoice after departure?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What should I do, if I lost or forgot something in my room?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "How do I know if the hotel is bookable?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Why is the hotel not bookable although the calendar is marked green?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "When is a good time to visit your country?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "What voltage do you use in your country?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer power converter at your hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have voltage converter at your hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have power adapter at your hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer voltage adapter at your hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is power conterter offerred at your hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is voltage adapter offerred at your hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have satellite television?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer satellite television?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is satellite television available at our hotel?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have in-house movies?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you offer in-house movies?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Is in-house movies available?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have any special packages for honeymoon?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have any special packages for anniversaries?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have any special packages for birthday?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have any special packages for conference?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "Do you have any special packages for company trip?\r",
+      "predict": "inquiry"
+    },
+    {
+      "text": "",
+      "predict": "sent"
+    }
+  ]
+}

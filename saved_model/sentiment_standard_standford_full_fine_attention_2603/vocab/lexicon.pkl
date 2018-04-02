@@ -1,0 +1,6 @@
+(dp1
+S'id2lexicon'
+p2
+NsS'lexicon2id'
+p3
+Ns.

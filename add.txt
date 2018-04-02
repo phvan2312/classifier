@@ -1,0 +1,3 @@
+__label__very_negative	I hate her
+__label__very_negative	this post is not great
+__label__very_negative	The shuttle service was so bad

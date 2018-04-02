@@ -1,0 +1,8 @@
+(dp1
+S'id2vaderscore'
+p2
+NsS'id2vaderlexicon'
+p3
+NsS'vaderlexicon2id'
+p4
+Ns.

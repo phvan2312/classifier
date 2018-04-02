@@ -1,0 +1,7 @@
+{
+  "dropout_keep_prob": [0.5,0.6,0.7],
+  "filter_sizes" : [[2,3,5],[2,4,6],[2,3,5,7]],
+  "num_filters"  : [100,150,200],
+  "word_emb_dim" : [200,300]
+}
+

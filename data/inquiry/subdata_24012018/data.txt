@@ -1,0 +1,150 @@
+How much?
+Price?
+Value?
+How much for payment?
+Total amount?
+Pls contact me
+inbox,please
+Pls call me
+Location?
+Where located?
+nearby?
+area?
+position?
+which region?
+what are condition of home?
+condition of home?
+quality of home?
+quality of apartment?
+status of house?
+situation of house?
+situation of apartment?
+How old is the roof?
+What the roof's age?
+What is the type of foundation?
+type of foundation?
+Does the home have insulation in the walls and attic?
+have insulation in the walls and attic?
+Have any appliances or systems been replaced and, if so, when?
+any appliances or systems been replaced?
+What types of other properties are located nearby?
+What are the neighborhood demographics?
+the neighborhood demographics?
+Where are the schools?
+near to the schools?
+Are there nuisance factors?
+nuisance factors?
+Any Infestations of Termites, Carpenter Ants, or Other Pests?
+Any Paranormal or Nefarious Activity?
+What are Monthly Utility Costs?
+Has the Sewer Ever Backed Up?
+Is There Documentation on Warranties?
+Warranties?
+How Much Insulation Is in the Attic?
+How Big is the Water Heater?
+size of the Water Heater?
+When Was the Last Time the Septic Tank Was Pumped?
+the status of the Septic Tank?
+Will My SUV Fit in the Garage?
+Car parking?
+What's the position and quality of trees?
+Position and quality of trees?
+Any signs of pets?
+Are there sidewalks in the neigboorhoods?
+sidewalks in the neigboorhoods?
+Is the house too out-dated?
+Does the house have any weird smells?
+any weird smells?
+Does the ground slope away from the house?
+the ground slope away from the house?
+What do the car in the neigboorhood look like?
+car in the neigboorhood look like?
+What are the neigboor like?
+What are the neigboor like?
+How much are utilities?
+price of utilities?
+How long has the house been on the market and has it had much interest?
+distance from house to local martket?
+Why are the current owners moving?
+the reason why current owners moving?
+Has the house had any major building work recently?
+the house have any major building work recently?
+How long have the previous owners lived there?
+Is the property listed?
+the property listed?
+Is the property part of a chain?
+Is the property part of a chain?
+Does the area have any hidden issues to be aware of?
+any hidden issues to be aware of?
+Whats included in the sale?
+Who are the neighbours?
+What are the properties next door?
+Which way does the garden face?
+gargen face to which direction?
+Can I try the taps?
+I can try the taps?
+Are there good local amenities?
+good local amenities?
+Is there room for negotiation?
+any room for negotiation?
+Why is the owner selling?
+the reason why the owner selling?
+Why is the owner selling?
+minimum price the house?
+What is the minimum price the seller will accept?
+What offers have they had so far?
+What offers ?
+Can I speak directly to the seller?
+Pls ask the seller to contact me
+renting vs. buying a better option?
+neighborhoods crime rate?
+my home needs and wants?
+Why is the House for Sale?
+any nuisances or problem neighbors?
+reputation of public schools in the area?
+exterior in good shape?
+any additions?
+Age and condition of roof?
+the insulation type?
+wiring method?
+electrical panel size?
+any leaks in foundation?
+walls insulated?
+furnace age?
+furnace type and service history?
+hot water heater type and age?
+window type and age?
+ever been rats or an ant history?
+size of main service to road?
+When the home was built?
+What changes or upgrades they have made?
+Is the roof mossy?
+How much are taxes each year?
+the home wired for home security and internet?
+appliances included?
+the property child friendly?
+How many people have owned the property previously?
+average cost of utilities?
+any issues with the home?
+activities are within walking distance?
+any convictions attached to the property?
+any deaths in the property?
+public transport closely available?
+any offers on the property?
+final asking price?
+what services and amenities?
+Distance to closest public transportation & bus stops
+School Zones - Elementary, Middle & High School
+Convenience to churches, shopping and entertainment
+Any foundation problems?
+Room dimensions and total square footage
+Lot Size?
+average cost of utilities throughout the year?
+Any liens against the property
+pool, landscaping, lake or river rights?
+Zoning and nonconforming uses?
+any problem neighbors or nuisances?
+ever been treated for termites?
+large garden?
+swimming pool?
+How about view?

@@ -1,0 +1,652 @@
+__label__inquiry	Does the room have a private bathroom?
+__label__inquiry	ever been rats or an ant history?
+__label__inquiry	How can I reach your hotel from the airport?
+__label__inquiry	Do you have any special packages for honeymoon?
+__label__inquiry	Does the price include all taxes and fees?
+__label__inquiry	neighborhood's crime rate?
+__label__inquiry	What about the special discounts?
+__label__inquiry	Why is the arrangement not bookable?
+__label__inquiry	status of house?
+__label__inquiry	the status of the Septic Tank?
+__label__inquiry	Are there rooms that are more recently renovated than others?
+__label__inquiry	How can I make booking?
+__label__inquiry	Is the parking free?
+__label__inquiry	Room dimensions and total square footage
+__label__inquiry	Do you charge for parking?
+__label__inquiry	position?
+__label__inquiry	Is a limousine service available from the airport?
+__label__inquiry	Do they have menu for kids?
+__label__inquiry	Can I also book breakfast online
+__label__inquiry	Car parking?
+__label__inquiry	Can I book tee times online?
+__label__inquiry	Is there special price for children?
+__label__inquiry	Can I bring my pet?
+__label__inquiry	Shall I use the kitchen?
+__label__inquiry	gargen face to which direction?
+__label__inquiry	good local amenities?
+__label__inquiry	Free dinner
+__label__inquiry	What is the daily rate?
+__label__inquiry	Have you had Best price Guarantee program
+__label__inquiry	Is it 24 hour snacks/drinks, swim-up bar?
+__label__inquiry	Do you have a restaurant?
+__label__inquiry	Do you have renting service for golf facilities?
+__label__inquiry	the ground slope away from the house?
+__label__inquiry	Do you have any special packages for birthday?
+__label__inquiry	Can I get a room in a silent area?
+__label__inquiry	Do you reduce the price for kids
+__label__inquiry	Is there an elevator?
+__label__inquiry	any leaks in foundation?
+__label__inquiry	the neighborhood demographics?
+__label__inquiry	Can we bring our pets?
+__label__inquiry	What activities are included?
+__label__inquiry	How much will you charge me for one night?
+__label__inquiry	Do you have any special packages for company trip?
+__label__inquiry	How far from the airport is the property?
+__label__inquiry	Can I be placed in a recently renovated room?
+__label__inquiry	What credit cards do you accept?
+__label__inquiry	any appliances or systems been replaced?
+__label__inquiry	How about view?
+__label__inquiry	Does the room rate include meals?
+__label__inquiry	What do the car in the neigboorhood look like?
+__label__inquiry	How much?
+__label__inquiry	Why are the current owners moving?
+__label__inquiry	By what time must I check-out?
+__label__inquiry	What is the daily rate
+__label__inquiry	Is the property listed?
+__label__inquiry	Are there nuisance factors?
+__label__inquiry	What are the reception opening hours?
+__label__inquiry	Is there a doctor or nurse on the property?
+__label__inquiry	Is the toiletries included free?
+__label__inquiry	Why do the costs vary from day to day?
+__label__inquiry	Is there room for negotiation?
+__label__inquiry	Is the toiletries free of charge?
+__label__inquiry	Which size are the rooms?
+__label__inquiry	Is the roof mossy?
+__label__inquiry	How many bars does the hotel have?
+__label__inquiry	Do I have to pay for extra clean linen?
+__label__inquiry	Any Paranormal or Nefarious Activity?
+__label__inquiry	How much for a room per night
+__label__inquiry	Am I entitled to any exclusive amenities?
+__label__inquiry	Have you had Best price Guarantee policies
+__label__inquiry	Why is the owner selling?
+__label__inquiry	What amenities are included in the room?
+__label__inquiry	At what time can I check-in?
+__label__inquiry	What is the ongoing entertainment?
+__label__inquiry	How much for a room
+__label__inquiry	Is there discount for kids
+__label__inquiry	Have you got Best price Guarantee policies
+__label__inquiry	Is the hotel near an airport?
+__label__inquiry	Is the parking free of charge?
+__label__inquiry	Any surcharge for baggage locker?
+__label__inquiry	window type and age?
+__label__inquiry	Do you offer me better price?
+__label__inquiry	price of utilities?
+__label__inquiry	Is the property part of a chain?
+__label__inquiry	What is excluded in my nightly rate?
+__label__inquiry	What is included in the room rate
+__label__inquiry	Can I book without credit card?
+__label__inquiry	Can I be placed away from the elevator?
+__label__inquiry	Could you send us more information about promotion?
+__label__inquiry	How much for a room/night?
+__label__inquiry	Do they have a kids’ menu?
+__label__inquiry	Who are the neighbours?
+__label__inquiry	How much should I pay for one night?
+__label__inquiry	Do you have any special packages for conference?
+__label__inquiry	At what time is check-in?
+__label__inquiry	How much should we pay for extra bed?
+__label__inquiry	What do you serve for breakfast?
+__label__inquiry	Where can I see the hotel rates?
+__label__inquiry	Are the prices quoted per room or per person?
+__label__inquiry	How can I check the room rates
+__label__inquiry	Does the toiletries included in the room rate?
+__label__inquiry	How do I cancel a reservation?
+__label__inquiry	How long have the previous owners lived there?
+__label__inquiry	Do kids stay for free?
+__label__inquiry	How to deposit?
+__label__inquiry	Check-in time?
+__label__inquiry	How much is one room?
+__label__inquiry	For how many persons I can make a reservation?
+__label__inquiry	Do you offer Best price Guarantee program?
+__label__inquiry	Meals included?
+__label__inquiry	How do I know if the hotel has parking facilities?
+__label__inquiry	furnace type and service history?
+__label__inquiry	How much is a room?
+__label__inquiry	Do you have car rental service?
+__label__inquiry	Do you offer free toiletries?
+__label__inquiry	Can I use discount vouchers?
+__label__inquiry	Is parking available at the hotel?
+__label__inquiry	Is Wi-Fi available in the room?
+__label__inquiry	Where located?
+__label__inquiry	Do you offer handicapped rooms?
+__label__inquiry	Will my room have a refrigerator?
+__label__inquiry	Is it safe to fill in my credit card number?
+__label__inquiry	How much do we have to deposit?
+__label__inquiry	Does the hotel have parking lot?
+__label__inquiry	Do you offer special rate for membership owners?
+__label__inquiry	Is voltage adapter offerred at your hotel?
+__label__inquiry	Is there shuttle service into town or for shopping excursions?
+__label__inquiry	What does the price include?
+__label__inquiry	Can we order dishes off the menu?
+__label__inquiry	When will a hold be released?
+__label__inquiry	Will the room have a bathtub?
+__label__inquiry	What's the daily rate?
+__label__inquiry	Does the room have private balcony?
+__label__inquiry	Is there pick-up service?
+__label__inquiry	What better rate can you offer me?
+__label__inquiry	the reason why current owners moving?
+__label__inquiry	What is included in my nightly rate?
+__label__inquiry	Can hotel staff speak Korean?
+__label__inquiry	Can we walk to restaurants and shopping?
+__label__inquiry	Are there sidewalks in the neigboorhoods?
+__label__inquiry	Does the toiletries included in the price?
+__label__inquiry	How can I subscribe for the newsletter?
+__label__inquiry	Do you offer pick-up service for free?
+__label__inquiry	How late are the doors open?
+__label__inquiry	How much will you charge me for one night
+__label__inquiry	What is the safety record?
+__label__inquiry	Can I cancel only certain parts of my reservation?
+__label__inquiry	What does the price offer?
+__label__inquiry	average cost of utilities?
+__label__inquiry	Have you got Best price Guarantee policies?
+__label__inquiry	Do kids stay for free
+__label__inquiry	Have you got Best price Guarantee program?
+__label__inquiry	What are the policies for membership owners
+__label__inquiry	What's the position and quality of trees?
+__label__inquiry	At what time is check-out?
+__label__inquiry	Can I check-in without my reservation number?
+__label__inquiry	How do I reserve my room?
+__label__inquiry	Breakfast included
+__label__inquiry	How much per night
+__label__inquiry	Have you had Best price Guarantee policies?
+__label__inquiry	my home needs and wants?
+__label__inquiry	Is it possible to book spa treatments online?
+__label__inquiry	How much will you charge me for a night?
+__label__inquiry	Do you offer connecting room?
+__label__inquiry	Have you had Best price Guarantee programme
+__label__inquiry	Position and quality of trees?
+__label__inquiry	Is there special price for children
+__label__inquiry	Is wifi free of charge?
+__label__inquiry	What is the minimum price the seller will accept?
+__label__inquiry	How much should I pay for one night
+__label__inquiry	How much is a room per night?
+__label__inquiry	What is the hotel's address?
+__label__inquiry	Do you have special facilities for handicapped travellers?
+__label__inquiry	What's the price for one night
+__label__inquiry	Is there any discount for guest staying at your hotel?
+__label__inquiry	Does the ground slope away from the house?
+__label__inquiry	Does the house have any weird smells?
+__label__inquiry	How can I check the room rates?
+__label__inquiry	What offers have they had so far?
+__label__inquiry	Do you offer free parking during our stay?
+__label__inquiry	How much for one night
+__label__inquiry	Can I have a room on a higher floor?
+__label__inquiry	Do you have any special packages for anniversaries?
+__label__inquiry	How much for a room per night?
+__label__inquiry	Do we have to pay deposit?
+__label__inquiry	What is served for breakfast?
+__label__inquiry	wiring method?
+__label__inquiry	Does the price include breakfast
+__label__inquiry	Is half or full board available?
+__label__inquiry	Is babysitting provided?
+__label__inquiry	Can I book a hotel for day use?
+__label__inquiry	How much is 1 room
+__label__inquiry	Has the house had any major building work recently?
+__label__inquiry	what are condition of home?
+__label__inquiry	Any liens against the property
+__label__inquiry	How much for a room?
+__label__inquiry	size of main service to road?
+__label__inquiry	What does the room rate include
+__label__inquiry	What are the check-in and check-out times of a hotel?
+__label__inquiry	Which is the nearest train station?
+__label__inquiry	condition of home?
+__label__inquiry	How do I know that my reservation is confirmed?
+__label__inquiry	What are the bar hours?
+__label__inquiry	Have you got Best price Guarantee program
+__label__inquiry	Is there a hurricane policy?
+__label__inquiry	Is the house too out-dated?
+__label__inquiry	How many kinds of room do you offer?
+__label__inquiry	What are the properties next door?
+__label__inquiry	Age and condition of roof?
+__label__inquiry	What is the best price guarantee
+__label__inquiry	What if there will be more than two adults in the room?
+__label__inquiry	Have any appliances or systems been replaced and, if so, when?
+__label__inquiry	What do you offer for breakfast?
+__label__inquiry	How are the golf facilities?
+__label__inquiry	inbox,please
+__label__inquiry	Which is the nearest airport?
+__label__inquiry	Will I need a coat and tie for dinner?
+__label__inquiry	Do you offer special rate for membership owners
+__label__inquiry	Is there room available on ..?
+__label__inquiry	What are Monthly Utility Costs?
+__label__inquiry	How to get to the nearest shopping mall?
+__label__inquiry	What is your address?
+__label__inquiry	How much does parking cost?
+__label__inquiry	What is the price for one night?
+__label__inquiry	How much?
+__label__inquiry	What about kids club?
+__label__inquiry	Are special requests such as gluten-free meals manageable?
+__label__inquiry	Do we have to pay for extra clean linen?
+__label__inquiry	Lot Size?
+__label__inquiry	What's included in the sale?
+__label__inquiry	Can I still book a room without credit card?
+__label__inquiry	What is included in the price
+__label__inquiry	Are special requests such as feather-free pillows manageable?
+__label__inquiry	How much for one night?
+__label__inquiry	Shall we reserve the booking by our credit card?
+__label__inquiry	Are there car parking spaces or a car park?
+__label__inquiry	Can I book tee times online
+__label__inquiry	How many floors does the hotel have?
+__label__inquiry	What if I want an upgrade?
+__label__inquiry	my home needs and wants?
+__label__inquiry	What time does the restaurant open?
+__label__inquiry	Is there complimentary toiletries for free?
+__label__inquiry	What time does the bar close?
+__label__inquiry	Any foundation problems?
+__label__inquiry	Do you offer special rate for kids
+__label__inquiry	Can I get an early check-in?
+__label__inquiry	How old is the roof?
+__label__inquiry	School Zones - Elementary, Middle & High School
+__label__inquiry	Is the price per person or per night
+__label__inquiry	What are the special services available for female travellers?
+__label__inquiry	final asking price?
+__label__inquiry	What's included in the sale?
+__label__inquiry	Is there any discount for large group?
+__label__inquiry	Do you reduce the price for children?
+__label__inquiry	Do you have connecting room?
+__label__inquiry	Which online payment methods do you offer?
+__label__inquiry	Is the hotel family friendly?
+__label__inquiry	How much for 1 room?
+__label__inquiry	Do weddings interfere with any of the public areas?
+__label__inquiry	Once I have made my reservation, will I receive any written confirmation from the hotel?
+__label__inquiry	Is breakfast included in the price
+__label__inquiry	Does the rate reflect all fees and taxes?
+__label__inquiry	Do you have Best price Guarantee programme
+__label__inquiry	When do I need to pay for the accommodation?
+__label__inquiry	Do you offer special rate for kids?
+__label__inquiry	Breakfast included?
+__label__inquiry	furnace age?
+__label__inquiry	Does the price include meals
+__label__inquiry	Do you offer special price for kids?
+__label__inquiry	What is there to do on a rainy day?
+__label__inquiry	ever been treated for termites?
+__label__inquiry	How can I order hotel flyer?
+__label__inquiry	minimum price the house?
+__label__inquiry	Are medical services available at the hotels?
+__label__inquiry	Do you commit your price is the best?
+__label__inquiry	Are meals included in the price?
+__label__inquiry	Do you offer child care service?
+__label__inquiry	How much is a room/night?
+__label__inquiry	What time is the kitchen open to guest?
+__label__inquiry	Are there rooms with better Wi-Fi reception than others?
+__label__inquiry	How much do you charge me for one night?
+__label__inquiry	How much is one room
+__label__inquiry	Free parking?
+__label__inquiry	type of foundation?
+__label__inquiry	How much are taxes each year?
+__label__inquiry	What does breakfast online booking cost
+__label__inquiry	Any signs of pets?
+__label__inquiry	Is power conterter offerred at your hotel?
+__label__inquiry	Can hotel staff speak Cantonese?
+__label__inquiry	How much for a room/night
+__label__inquiry	Is in-house movies available?
+__label__inquiry	Are meals included in the room rate
+__label__inquiry	If the room has a balcony or indoor stairs, are they safe for a toddler?
+__label__inquiry	Which credit cards are accepted?
+__label__inquiry	Are there a lot of weddings on property?
+__label__inquiry	Can I cook my own meals?
+__label__inquiry	Can I book two rooms with different occupancy?
+__label__inquiry	What are the policies for membership owners?
+__label__inquiry	Are golf facilities offered at your resort?
+__label__inquiry	Do you offer satellite television?
+__label__inquiry	Do you have special rate for membership owners
+__label__inquiry	Do you offer spa treatments?
+__label__inquiry	Have you got Best price Guarantee programme
+__label__inquiry	Do you guarantee your price is the best?
+__label__inquiry	Do you offer free parking?
+__label__inquiry	the home wired for home security and internet?
+__label__inquiry	Is there a lift?
+__label__inquiry	What voltage do you use in your country?
+__label__inquiry	Can different payment methods be combined?
+__label__inquiry	Any Infestations of Termites, Carpenter Ants, or Other Pests?
+__label__inquiry	Is my credit card being charged at time of booking?
+__label__inquiry	When were the rooms last refurbished?
+__label__inquiry	What is the Early Bird rate?
+__label__inquiry	How far in advance do I have to book?
+__label__inquiry	Are meals included in the room rate?
+__label__inquiry	any weird smells?
+__label__inquiry	Does the rate include all taxes and fees?
+__label__inquiry	Are there any special hotel offerings that are not widely advertised?
+__label__inquiry	Is the clientele mostly international?
+__label__inquiry	situation of house?
+__label__inquiry	Can I have breakfast even if I am not staying in your hotel?
+__label__inquiry	Can I book a hotel room by telephone or email?
+__label__inquiry	any problem neighbors or nuisances?
+__label__inquiry	Do you offer golf facilities?
+__label__inquiry	Is the price per person or per night?
+__label__inquiry	the house have any major building work recently?
+__label__inquiry	Have you had Best price Guarantee program?
+__label__inquiry	Do you charge for cancellations?
+__label__inquiry	Are there any scheduled get-acquainted cocktail parties or dinners?
+__label__inquiry	Do you offer Best price Guarantee program
+__label__inquiry	area?
+__label__inquiry	How can I redeem a group voucher in your hotel?
+__label__inquiry	Why is the hotel not bookable although the calendar is marked green?
+__label__inquiry	any deaths in the property?
+__label__inquiry	activities are within walking distance?
+__label__inquiry	What does the price include
+__label__inquiry	Which way does the garden face?
+__label__inquiry	When the home was built?
+__label__inquiry	Do you have baggage locker?
+__label__inquiry	Do you charge children for sharing the room with parents?
+__label__inquiry	What currency is accepted for payment at your hotel?
+__label__inquiry	What if I find a lower price after booking?
+__label__inquiry	Do you charge for extra clean linen?
+__label__inquiry	the property child friendly?
+__label__inquiry	Which room configurations do you offer?
+__label__inquiry	any convictions attached to the property?
+__label__inquiry	Do you have power adapter at your hotel?
+__label__inquiry	Do you offer in-house movies?
+__label__inquiry	Are the prices quoted per room or per person
+__label__inquiry	car in the neigboorhood look like?
+__label__inquiry	How long before the vacation should I book my room?
+__label__inquiry	Do you have Best price Guarantee program?
+__label__inquiry	What is your room categories?
+__label__inquiry	Do the bathrooms have baths or showers?
+__label__inquiry	Will My SUV Fit in the Garage?
+__label__inquiry	Are meals served buffet style or off the menu?
+__label__inquiry	What are the neigboor like?
+__label__inquiry	Do you have special rate for membership owners?
+__label__inquiry	Does the resort cater to Americans?
+__label__inquiry	Can my children stay in the room for free?
+__label__inquiry	What time is breakfast served?
+__label__inquiry	quality of home?
+__label__inquiry	what services and amenities?
+__label__inquiry	Do you offer Best price Guarantee programme
+__label__inquiry	How secure is the your website?
+__label__inquiry	Is the hotel near an train station?
+__label__inquiry	Do you offer gift voucher?
+__label__inquiry	Can you recommend any good diving school in your area?
+__label__inquiry	Can I use the spa area after checking out?
+__label__inquiry	Free dinner?
+__label__inquiry	Can I have a room facing away from the street?
+__label__inquiry	exterior in good shape?
+__label__inquiry	Can I walk to local restaurants or markets?
+__label__inquiry	Do you offer voltage adapter at your hotel?
+__label__inquiry	When to check in, check out?
+__label__inquiry	Does the room rate include breakfast?
+__label__inquiry	Do you offer special discounts?
+__label__inquiry	Which services are offered in the price?
+__label__inquiry	Am I expected to pay any type of gratuities?
+__label__inquiry	How Big is the Water Heater?
+__label__inquiry	Do you offer Best price Guarantee programme?
+__label__inquiry	Any surcharge for late check-out?
+__label__inquiry	Can I rent a car at the hotel or nearby?
+__label__inquiry	Do you offer free wifi?
+__label__inquiry	Are there any upcoming sales or holiday promotions?
+__label__inquiry	reputation of public schools in the area?
+__label__inquiry	How much is a room/night
+__label__inquiry	Can my children stay in the room for free
+__label__inquiry	Convenience to churches, shopping and entertainment
+__label__inquiry	any issues with the home?
+__label__inquiry	What is the security policy at the resort?
+__label__inquiry	How large is the room?
+__label__inquiry	Can I take a pet with me?
+__label__inquiry	Total amount?
+__label__inquiry	How much for one room
+__label__inquiry	Are the rooms connecting or adjacent?
+__label__inquiry	Do you have voltage converter at your hotel?
+__label__inquiry	Price?
+__label__inquiry	What types of credit card can I use to guarantee the reservation?
+__label__inquiry	How much will you charge me for a night
+__label__inquiry	Is breakfast included in the room rate
+__label__inquiry	Is Wi-Fi included for free?
+__label__inquiry	the insulation type?
+__label__inquiry	Do you offer any short term tour?
+__label__inquiry	Can the public use the swimming pool?
+__label__inquiry	Warranties?
+__label__inquiry	How can I request an early check-in or late check-out time?
+__label__inquiry	How can I redeem Groupon-voucher in your hotel?
+__label__inquiry	Do you have Best price Guarantee program
+__label__inquiry	How much do I have to pay for car park?
+__label__inquiry	Zoning and nonconforming uses?
+__label__inquiry	What is the VAT refund system in your country?
+__label__inquiry	Where in the hotel is the room located?
+__label__inquiry	How much for 1 room
+__label__inquiry	Is there any teen activities?
+__label__inquiry	Where can I get a copy of my invoice after departure?
+__label__inquiry	Do you have smoking and non-smoking rooms?
+__label__inquiry	How much for one room?
+__label__inquiry	situation of apartment?
+__label__inquiry	How much do I have to pay for a night
+__label__inquiry	What type of customer service is offered?
+__label__inquiry	Does the hotel have any local affiliations?
+__label__inquiry	How do I get from the airport to the hotel?
+__label__inquiry	What is the difference between twin room and double room?
+__label__inquiry	Is Reception open 24 hours?
+__label__inquiry	Is there discount for children?
+__label__inquiry	How much do I have to pay for a night?
+__label__inquiry	Do you have satellite television?
+__label__inquiry	Has the Sewer Ever Backed Up?
+__label__inquiry	How can I see the different rates?
+__label__inquiry	What is offered in the price?
+__label__inquiry	Have you got Best price Guarantee programme?
+__label__inquiry	Is Wi-Fi available at the hotel?
+__label__inquiry	How can I see which features are offered in the room rate?
+__label__inquiry	How many rooms can I book in one reservation?
+__label__inquiry	Are cocktails, beer, bottled water and soda included?
+__label__inquiry	Can I have breakfast even if I am not staying in your hotel
+__label__inquiry	Which services are included in the price?
+__label__inquiry	What is the currency accepted at your hotel?
+__label__inquiry	What are the exact bed sizes in a room?
+__label__inquiry	How much is a room per night
+__label__inquiry	any offers on the property?
+__label__inquiry	Can I also book breakfast online?
+__label__inquiry	Are there good local amenities?
+__label__inquiry	How can I unsubscribe for the newsletter?
+__label__inquiry	any additions?
+__label__inquiry	Does the room rate include meals
+__label__inquiry	What does the room rate include?
+__label__inquiry	Value?
+__label__inquiry	Does the room have private outdoor seating?
+__label__inquiry	Long-term parking?
+__label__inquiry	Does the price include breakfast?
+__label__inquiry	How long has the house been on the market and has it had much interest?
+__label__inquiry	any room for negotiation?
+__label__inquiry	How much do you charge me for a night
+__label__inquiry	Does the hotel have a conference room? If so, how many people can it accommodate?
+__label__inquiry	How much for payment?
+__label__inquiry	electrical panel size?
+__label__inquiry	Where is the room located on the property?
+__label__inquiry	How much does it cost for parking?
+__label__inquiry	Is the swimming pool fenced?
+__label__inquiry	Can I try the taps?
+__label__inquiry	What about teen activities?
+__label__inquiry	Is there discount for kids?
+__label__inquiry	Is there a resort fee?
+__label__inquiry	Are there any special packages and sales promotions going on now that include airfare?
+__label__inquiry	How much is it?
+__label__inquiry	Is parking included?
+__label__inquiry	Is there waiting list for reservation on high season?
+__label__inquiry	How much do I have to pay for one night
+__label__inquiry	Do you have pick-up service?
+__label__inquiry	Is there price reduction for kids?
+__label__inquiry	Why is the House for Sale?
+__label__inquiry	any hidden issues to be aware of?
+__label__inquiry	Noise level?
+__label__inquiry	Why do the costs vary from day to day
+__label__inquiry	Do you offer kids rates?
+__label__inquiry	quality of apartment?
+__label__inquiry	What should I do, if I lost or forgot something in my room?
+__label__inquiry	Is the hotel wi-fi free?
+__label__inquiry	public transport closely available?
+__label__inquiry	swimming pool?
+__label__inquiry	Can I use the spa area even if I am not staying in your hotel?
+__label__inquiry	Do you offer kids rates
+__label__inquiry	What does breakfast online booking cost?
+__label__inquiry	Will there be any wedding during my stay?
+__label__inquiry	How is the traffic there?
+__label__inquiry	Pls call me
+__label__inquiry	Is the toiletries included free of charge?
+__label__inquiry	What is included in the room rate?
+__label__inquiry	Does the home have insulation in the walls and attic?
+__label__inquiry	have insulation in the walls and attic?
+__label__inquiry	What is the nightlife like at this resort?
+__label__inquiry	Can we add extra bed?
+__label__inquiry	What are the directions to the hotel?
+__label__inquiry	Pls contact me
+__label__inquiry	By when do I have to cancel my booking, if I have to?
+__label__inquiry	What is the distance from the hotel from the nearest hospital?
+__label__inquiry	Do you offer power converter at your hotel?
+__label__inquiry	Are meals included in the price
+__label__inquiry	How much a night
+__label__inquiry	Can hotel staff speak Japanese?
+__label__inquiry	When is the best time of the year to enjoy the resort?
+__label__inquiry	How much are utilities?
+__label__inquiry	What is the type of foundation?
+__label__inquiry	Is there price reduction for kids
+__label__inquiry	large garden?
+__label__inquiry	What is the best price guarantee?
+__label__inquiry	Do you offer child rates?
+__label__inquiry	Does the hotel need a payment in advance?
+__label__inquiry	the reason why the owner selling?
+__label__inquiry	Can I purchase a hotel voucher as a present?
+__label__inquiry	Where can I see the booking conditions?
+__label__inquiry	How much is it
+__label__inquiry	How can I change or cancel my reservation?
+__label__inquiry	Does the hotel have an onsite restaurant?
+__label__inquiry	Is breakfast included in the price?
+__label__inquiry	Can I reserve a parking lot?
+__label__inquiry	Are taxes included in the room rates?
+__label__inquiry	Is breakfast included in the room rate?
+__label__inquiry	How can I see which features are included in the price?
+__label__inquiry	Do you have elevator?
+__label__inquiry	Is satellite television available at our hotel?
+__label__inquiry	Can I leave my luggage?
+__label__inquiry	How far is it to the center?
+__label__inquiry	Is there a pool at the hotel?
+__label__inquiry	How much per night?
+__label__inquiry	Free breakfast?
+__label__inquiry	What is the dress code for cocktail parties?
+__label__inquiry	What are the best rooms and is there a mini-bar?
+__label__inquiry	Where are the schools?
+__label__inquiry	How many additional beds can you have in one room?
+__label__inquiry	the property listed?
+__label__inquiry	Do you charge kids for sharing the room with parents
+__label__inquiry	Do you offer special price for kids
+__label__inquiry	Do you charge kids for sharing the room with parents?
+__label__inquiry	How much do I have to pay for one night?
+__label__inquiry	which region?
+__label__inquiry	Do we have to pay for parking during our stay?
+__label__inquiry	What is the cancellation policy on my reservation?
+__label__inquiry	How much of a hold are you putting on my credit card?
+__label__inquiry	When is a good time to visit your country?
+__label__inquiry	What is the price for one night
+__label__inquiry	How much
+__label__inquiry	Does the room rate include breakfast
+__label__inquiry	How much is a room
+__label__inquiry	Why did I not receive a booking confirmation?
+__label__inquiry	How many people have owned the property previously?
+__label__inquiry	Check-out time?
+__label__inquiry	Is there a variation in the views in rooms of the same category?
+__label__inquiry	pool, landscaping, lake or river rights?
+__label__inquiry	Is the room rate per person or per night
+__label__inquiry	Can I pay for my stay in advance?
+__label__inquiry	Do you offer hotel shuttles to/from train station?
+__label__inquiry	How much do you charge me for a night?
+__label__inquiry	Can I have dinner even if I am not staying in your hotel?
+__label__inquiry	If the pool is unfenced, how far away is your room from the it?
+__label__inquiry	size of the Water Heater?
+__label__inquiry	How much should I pay for a night
+__label__inquiry	Are drinks local, premium or top-shelf brands?
+__label__inquiry	near to the schools?
+__label__inquiry	Have you had Best price Guarantee programme?
+__label__inquiry	What is offered at breakfast?
+__label__inquiry	Is there a kids club?
+__label__inquiry	What are the neighborhood demographics?
+__label__inquiry	Are pets allowed to stay at the hotel?
+__label__inquiry	How do I know if the hotel is bookable?
+__label__inquiry	nearby?
+__label__inquiry	Is it cheaper to book online?
+__label__inquiry	appliances included?
+__label__inquiry	Are bookings for groups possible online?
+__label__inquiry	Is there babysitting service?
+__label__inquiry	Location?
+__label__inquiry	How much should I pay for a night?
+__label__inquiry	What's the daily rate
+__label__inquiry	hot water heater type and age?
+__label__inquiry	Are airport transfers included in the package rate?
+__label__inquiry	Do they have a kids’ menu?
+__label__inquiry	What is the view of my room?
+__label__inquiry	Is there public transport to your place?
+__label__inquiry	Do you offer child rates
+__label__inquiry	Can I have dinner even if I am not staying in your hotel
+__label__inquiry	Do you commit your price is the best
+__label__inquiry	Pls ask the seller to contact me
+__label__inquiry	Do you reduce the price for kids?
+__label__inquiry	Do you offer non-smoking rooms?
+__label__inquiry	Do you charge children for sharing the room with parents
+__label__inquiry	Do I have to pay for parking?
+__label__inquiry	Does this room have an connecting room?
+__label__inquiry	any nuisances or problem neighbors?
+__label__inquiry	Is there discount for children
+__label__inquiry	Do you offer me a better rate?
+__label__inquiry	Can hotel staff speak French?
+__label__inquiry	How to get to the nearest restaurant?
+__label__inquiry	How many rooms can be booked at once?
+__label__inquiry	Is there a casino on property or near-by?
+__label__inquiry	walls insulated?
+__label__inquiry	How much a night?
+__label__inquiry	Does the Room have a Refrigerator?
+__label__inquiry	Can I reserve a table in a restaurant?
+__label__inquiry	Does the area have any hidden issues to be aware of?
+__label__inquiry	Will I be entitled to a non-smoking room?
+__label__inquiry	neighborhood's crime rate?
+__label__inquiry	What is the time of room cancellation?
+__label__inquiry	Is the room rate per person or per night?
+__label__inquiry	Free breakfast
+__label__inquiry	Can I make room reservation by phone?
+__label__inquiry	Distance to closest public transportation & bus stops
+__label__inquiry	average cost of utilities throughout the year?
+__label__inquiry	Why do Internet rates only apply at certain times of the year?
+__label__inquiry	Do you have rooms that have services for those with disabilities?
+__label__inquiry	Do you have lift?
+__label__inquiry	How Much Insulation Is in the Attic?
+__label__inquiry	How much is 1 room?
+__label__inquiry	sidewalks in the neigboorhoods?
+__label__inquiry	When is the latest to cancel the room reservation?
+__label__inquiry	Do you reduce the price for children
+__label__inquiry	What offers ?
+__label__inquiry	Is the toiletries free?
+__label__inquiry	What is included in the price?
+__label__inquiry	Do you have in-house movies?
+__label__inquiry	Which languages are spoken at Reception?
+__label__inquiry	How can I order hotel brochures?
+__label__inquiry	Are there any alternative on-property restaurants?
+__label__inquiry	Is there unlimited WiFi Access?
+__label__inquiry	What the roof's age?
+__label__inquiry	Is There Documentation on Warranties?
+__label__inquiry	Is there a hotel shuttle service to/from the airport?
+__label__inquiry	nuisance factors?
+__label__inquiry	Do children stay for free
+__label__inquiry	Where can I see the hotel rates
+__label__inquiry	Meals included
+__label__inquiry	Do you have Best price Guarantee programme?
+__label__inquiry	Do children stay for free?
+__label__inquiry	I can try the taps?
+__label__inquiry	When Was the Last Time the Septic Tank Was Pumped?
+__label__inquiry	Can I book two rooms of different categories?
+__label__inquiry	Do you guarantee your price is the best
+__label__inquiry	What's the price for one night?
+__label__inquiry	Does the price reflect all fees and taxes?
+__label__inquiry	Does the hotel need a deposit?
+__label__inquiry	Can hotel staff speak Mandarine?
+__label__inquiry	What changes or upgrades they have made?
+__label__inquiry	Is parking available?
+__label__inquiry	Does the price include meals?
+__label__inquiry	distance from house to local martket?
+__label__inquiry	How much do you charge me for one night
+__label__inquiry	renting vs. buying a better option?
+__label__inquiry	What types of other properties are located nearby?
+__label__inquiry	Can I speak directly to the seller?
+__label__inquiry	What is the resort procedure in the event of a medical emergency?
+__label__sent	that is all
